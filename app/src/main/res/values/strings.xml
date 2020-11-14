@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Desafio2</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="log_in">LOG IN</string>
+    <string name="or">OR</string>
+    <string name="btnregister">REGISTER</string>
+    <string name="name_hint">Name</string>
+    <string name="repeate_password">Repeate password</string>
+</resources>

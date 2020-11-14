@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#C0CCDA</color>
+    <color name="textcolorhint">#8492A6</color>
+    <color name="textcolor">#3F51B5</color>
+    <color name="btnlogin">#FF5252</color>
+    <color name="white">#FFFFFF</color>
+    <color name="divisor">#C0CCDA</color>
+    <color name="btnregister">#8492A6</color>
+    <color name="tvLogin_or">#47525E</color>
+    <color name="tvMenuItem">#5A6978</color>
+    <color name="light_white">#FDFDFD</color>
+    <color name="tvDish">#8492A6</color>
+</resources>
