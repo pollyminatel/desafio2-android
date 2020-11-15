@@ -10,7 +10,7 @@
 
     <androidx.constraintlayout.widget.ConstraintLayout
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="match_parent"
         android:background="@color/light_white">
 
         <ImageView
@@ -24,13 +24,14 @@
 
         <TextView
             android:id="@+id/tvMenuItem"
-            android:layout_width="0dp"
+            android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Prato Principal para crianças"
             style="@style/TextViewMenu"
             app:layout_constraintTop_toBottomOf="@id/ivMenuItem"
             app:layout_constraintStart_toStartOf="@id/ivMenuItem"
-            app:layout_constraintEnd_toEndOf="@id/ivMenuItem"/>
+            app:layout_constraintEnd_toEndOf="@id/ivMenuItem"
+            app:layout_constraintBottom_toBottomOf="parent"/>
 
 
     </androidx.constraintlayout.widget.ConstraintLayout>
