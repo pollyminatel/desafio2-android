@@ -6,5 +6,6 @@
     <string name="or">OR</string>
     <string name="btnregister">REGISTER</string>
     <string name="name_hint">Name</string>
-    <string name="repeate_password">Repeate password</string>
+    <string name="repeat_password">Repeat the password</string>
+    <string name="campo_vazio">Please, fill in the field %1$s</string>
 </resources>

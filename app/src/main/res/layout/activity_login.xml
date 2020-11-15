@@ -19,6 +19,7 @@
         app:layout_constraintTop_toTopOf="parent">
 
         <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/tiEmailIntern"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:inputType="textEmailAddress"
@@ -36,6 +37,7 @@
         app:layout_constraintTop_toBottomOf="@id/tiEmail">
 
         <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/tiSenhaIntern"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:inputType="textPassword"

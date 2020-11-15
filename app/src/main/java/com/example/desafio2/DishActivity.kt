@@ -17,6 +17,9 @@ class DishActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_dish)
+
+        supportActionBar?.title = "Digital House Foods"
+
         val dishData = intent.getParcelableExtra<Dish>("dishData")
         initComponents()
 

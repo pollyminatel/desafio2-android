@@ -14,18 +14,18 @@ class RestaurantActivity : AppCompatActivity() {
         supportActionBar?.title = "Digital House Foods"
 
         val dishes1 = mutableListOf<Dish>()
-        dishes1.add(Dish("https://conteudo.imguol.com.br/c/entretenimento/71/2020/05/27/guia-do-hamburguer---sanduiche-1590607899872_v2_450x337.jpg", "Hamburguer", "Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusant doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis."))
-        dishes1.add(Dish("https://conteudo.imguol.com.br/c/entretenimento/71/2020/05/27/guia-do-hamburguer---sanduiche-1590607899872_v2_450x337.jpg", "Hamburguer", "Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusant doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis."))
-        dishes1.add(Dish("https://conteudo.imguol.com.br/c/entretenimento/71/2020/05/27/guia-do-hamburguer---sanduiche-1590607899872_v2_450x337.jpg", "Hamburguer", "Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusant doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis."))
-        dishes1.add(Dish("https://conteudo.imguol.com.br/c/entretenimento/71/2020/05/27/guia-do-hamburguer---sanduiche-1590607899872_v2_450x337.jpg", "Hamburguer", "Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusant doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis."))
-        dishes1.add(Dish("https://conteudo.imguol.com.br/c/entretenimento/71/2020/05/27/guia-do-hamburguer---sanduiche-1590607899872_v2_450x337.jpg", "Hamburguer", "Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusant doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis."))
+        dishes1.add(Dish("https://conteudo.imguol.com.br/c/entretenimento/71/2020/05/27/guia-do-hamburguer---sanduiche-1590607899872_v2_450x337.jpg", "Hamburguer", "Hamburguer com cheddar"))
+        dishes1.add(Dish("https://truffle-assets.imgix.net/6ba7c292-hamburguer-vegetariano_l_thumb.jpg", "Hamburguer vegetariano", "Hamburguer de soja"))
+        dishes1.add(Dish("https://conteudo.imguol.com.br/c/entretenimento/71/2020/05/27/guia-do-hamburguer---sanduiche-1590607899872_v2_450x337.jpg", "Hamburguer", "Hamburguer com cheddar"))
+        dishes1.add(Dish("https://conteudo.imguol.com.br/c/entretenimento/71/2020/05/27/guia-do-hamburguer---sanduiche-1590607899872_v2_450x337.jpg", "Hamburguer", "Hamburguer com cheddar"))
+        dishes1.add(Dish("https://conteudo.imguol.com.br/c/entretenimento/71/2020/05/27/guia-do-hamburguer---sanduiche-1590607899872_v2_450x337.jpg", "Hamburguer", "Hamburguer com cheddar"))
 
         val dishes2 = mutableListOf<Dish>()
-        dishes2.add(Dish("https://conteudo.imguol.com.br/c/entretenimento/71/2020/05/27/guia-do-hamburguer---sanduiche-1590607899872_v2_450x337.jpg", "Batata", "Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusant doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis."))
-        dishes2.add(Dish("https://conteudo.imguol.com.br/c/entretenimento/71/2020/05/27/guia-do-hamburguer---sanduiche-1590607899872_v2_450x337.jpg", "Batata", "Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusant doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis."))
-        dishes2.add(Dish("https://conteudo.imguol.com.br/c/entretenimento/71/2020/05/27/guia-do-hamburguer---sanduiche-1590607899872_v2_450x337.jpg", "Batata", "Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusant doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis."))
-        dishes2.add(Dish("https://conteudo.imguol.com.br/c/entretenimento/71/2020/05/27/guia-do-hamburguer---sanduiche-1590607899872_v2_450x337.jpg", "Batata", "Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusant doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis."))
-        dishes2.add(Dish("https://conteudo.imguol.com.br/c/entretenimento/71/2020/05/27/guia-do-hamburguer---sanduiche-1590607899872_v2_450x337.jpg", "Batata", "Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusant doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis."))
+        dishes2.add(Dish("https://m.bonde.com.br/img/bondenews/2018/12/img_1659.webp", "Batata frita", "Esta batata frita é feita no óleo."))
+        dishes2.add(Dish("https://t1.uc.ltmcdn.com/pt/images/2/7/8/img_como_fazer_batatas_assadas_no_micro_ondas_11872_600.jpg", "Batata assada", "Esta batata assada é feita no óleo."))
+        dishes2.add(Dish("https://m.bonde.com.br/img/bondenews/2018/12/img_1659.webp", "Batata frita", "Esta batata frita é feita no óleo."))
+        dishes2.add(Dish("https://m.bonde.com.br/img/bondenews/2018/12/img_1659.webp", "Batata frita", "Esta batata frita é feita no óleo."))
+        dishes2.add(Dish("https://m.bonde.com.br/img/bondenews/2018/12/img_1659.webp", "Batata frita", "Esta batata frita é feita no óleo."))
 
         val restaurants = mutableListOf<Restaurant>()
         restaurants.add(Restaurant("https://vejasp.abril.com.br/wp-content/uploads/2020/08/reabertura-noturna-de-bares-e-restaurantes-Itaim-Bibi-010.jpg.jpg", "La Cave", "R. Demétrio Ribeiro, 51", "Fecha às 22:00", dishes1))
